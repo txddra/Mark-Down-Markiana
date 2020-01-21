@@ -25,9 +25,9 @@
 ![batmanoursavior.](https://boundingintocomics.com/files/2019/12/2019.12.02-07.03-boundingintocomics-5de55ff085538.png "thedarkknight")
 
 
-* text text text
-* text text text
-* text text text
-* text text text
+* `test text` 
+* **test text** 
+* *test text* 
+* _**text text**_
 
 ## thank you for the view, later tater. ✌️ 
